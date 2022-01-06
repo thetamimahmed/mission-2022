@@ -73,3 +73,28 @@ h1{
 .mission-section{
     padding-bottom: 50px;
 }
+.my-thaughts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0px;
+}
+.girls-pic{
+    width: 70%;
+    margin-left: 40px;
+}
+.photo-side{
+    width: 40%;
+    margin-left: 10%;
+}
+.text-side{
+    width: 40%;
+    margin-right: 10%;
+}
+.ts-title{
+    font-size: 35px;
+}
+.ts-text{
+    font-size:18px;
+    line-height: 1.5;
+}
