@@ -153,3 +153,20 @@ footer{
 footer p{
     color: gray;
 }
+.app-section{
+    padding: 100px 0px;
+}
+.as-title{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.app-sec-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.app-pic{
+    width: 50%;
+    margin-left: 20%;
+}
