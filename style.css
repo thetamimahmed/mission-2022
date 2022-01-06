@@ -140,3 +140,16 @@ h3{
     font-size: 30px;
     margin-top: 8px;
 }
+footer{
+    background-color: black;
+    text-align: center;
+    height: 130px;
+}
+.footer-title{
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+}
+footer p{
+    color: gray;
+}
