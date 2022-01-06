@@ -2,12 +2,14 @@ body{
     font-family: 'Lato', sans-serif;
     margin: 0;
     padding: 0;
+    
 }
 .top-section{
     display: flex;
     justify-content: center;
     align-items: center;
     padding-bottom: 120px;
+    padding-top: 50px;
 }
 .half-width{
     width: 40%;
@@ -136,6 +138,9 @@ h3{
     padding: 20px 10px;
     border-radius: 20px;
 }
+.email-text{
+    color: white;
+}
 .email{
     font-size: 30px;
     margin-top: 8px;
@@ -169,4 +174,7 @@ footer p{
 .app-pic{
     width: 50%;
     margin-left: 20%;
+}
+p{
+    color: #3E3E3E;
 }
